@@ -1,0 +1,8 @@
+# DSC212 - Modularity on the Karate Club Graph
+# Core dependencies of Modularity_Karate_Club.ipynb
+numpy>=1.24
+networkx>=3.0
+matplotlib>=3.7
+
+# Jupyter itself is needed to open and run the notebook:
+# pip install jupyter
